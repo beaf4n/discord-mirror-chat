@@ -1,7 +1,7 @@
 # SETUP
-- place your token account into token = '';
-- place your target text channels ids into channelIds = ['', ''];
-- place your webhook token to send message into webhookUrl = '';
+- place your token account into token = 'token';
+- place your target text channels ids into channelIds = ['id 1', 'id 2'];
+- place your webhook token to send message into webhookUrl = 'webhook';
 - insert your keyword to trigger send a mirror message at 
 const keywords = [
   "kata 1", "kata 2"
