@@ -8,7 +8,7 @@ const keywords = [
 ];
 
 # REQUIREMENT
-- (Node.JS)[https://nodejs.org/en/download/package-manager/current]
+- [Node.JS](https://nodejs.org/en/download/package-manager/current)
 
 # INSTALL
 - npm install
