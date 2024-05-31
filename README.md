@@ -9,9 +9,11 @@
 ```webhookUrl = 'webhook';```
 
 - insert your keyword to trigger send a mirror message at 
-```const keywords = [
+```
+const keywords = [
   "kata 1", "kata 2"
-];```
+];
+```
 
 # REQUIREMENT
 - [Node.JS](https://nodejs.org/en/download/package-manager/current)
