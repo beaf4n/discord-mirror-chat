@@ -7,6 +7,9 @@ const keywords = [
   "kata 1", "kata 2"
 ];
 
+# REQUIREMENT
+- (Node.JS)[https://nodejs.org/en/download/package-manager/current]
+
 # INSTALL
 - npm install
 
