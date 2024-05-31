@@ -1,12 +1,18 @@
 # SETUP
 - place your token account into
-```token = 'token';```
+```
+token = '';
+```
 
 - place your target text channels ids into
-```channelIds = ['id 1', 'id 2'];```
+```
+channelIds = ['id 1', 'id 2'];
+```
 
 - place your webhook token to send message into
-```webhookUrl = 'webhook';```
+```
+webhookUrl = 'webhook';
+```
 
 - insert your keyword to trigger send a mirror message at 
 ```
