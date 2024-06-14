@@ -1,5 +1,5 @@
 # SETUP
-- place your token account into
+- place your [token](https://gist.github.com/oyepriyansh/1be45b722181ec634664410cde244708) account into
 ```
 token = '';
 ```
